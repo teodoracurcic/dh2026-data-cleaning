@@ -1,6 +1,6 @@
 # Turning Raw Data into Reliable Sources
 
-This notebook was built for a data journalism workshop, but it works just as well as a standalone reference for anyone who needs to take messy government data and turn it into something mappable and story-ready.
+This notebook was built for a [Dataharvest](https://dataharvest.eu/) workshop, but it works just as well as a standalone reference for anyone who needs to take messy government data and turn it into something mappable and story-ready.
 
 The two datasets used here are both publicly available Serbian open data sources, but the techniques apply to almost any similar data: accident records, facility registries, administrative spreadsheets in a non-Latin script. If you have something like that, this workflow will get you most of the way there.
 
